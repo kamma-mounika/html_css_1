@@ -1,0 +1,35 @@
+body{
+    background-color:rgba(245, 240, 230,0.9);
+}
+ul{
+    display:flex;
+    gap:70px;
+    list-style-type:none;
+    margin-top:20px;
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    margin-left:90px;
+}
+.left-section{
+
+    margin:150px;
+    font-family:Helvetica;
+}
+h1{
+    font-size:40px;
+}
+#image{
+    padding:5px;
+}
+input{
+    background-color:rgba(27, 77, 25, 0.9);
+    border-radius:10px;
+    width:105px;
+    padding:10px;
+    color:white;
+    font-family:Arial;
+}
+.right-section{
+    margin-top:-450px;
+    margin-bottom:-450px;
+    margin-right:150px;
+    }
